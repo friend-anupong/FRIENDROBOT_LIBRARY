@@ -1,0 +1,45 @@
+{
+    "packages": [
+      {
+        "name": "myboard",
+        "maintainer": "Friend Robot",
+        "websiteURL": "https://www.friendrobot.co/",
+        "email": "jane@janedeveloper.org",
+        "help": {
+          "online": "https://www.friendrobot.co/"
+        },
+        "platforms": [
+          {
+            "name": "Friend Robot",
+            "architecture": "avr",
+            "version": "1.0",
+            "category": "Contributed",
+            "help": {
+              "online": "https://www.friendrobot.co/"
+            },
+            "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/raw/main/FRIENDROBOT.zip",
+            "archiveFileName": "FRIENDROBOT.zip",
+            "checksum": "SHA-256:2e01a529af06e08ed84b96f25c72766219955f111646c007e25ebcdc51db014c",
+            "size": "6558000",
+            "boards": [
+                { "name": "Board Model Nano (Friend Robot)" },
+                { "name": "Board Model Pro (Friend Robot)" }
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "arduino",
+                "name": "avr-gcc",
+                "version": "4.8.1-arduino5"
+              },
+              {
+                "packager": "arduino",
+                "name": "avrdude",
+                "version": "6.0.1-arduino5"
+              }
+            ]
+          }
+        ],
+        "tools": []
+      }
+    ]
+  }
