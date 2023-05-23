@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "Friend Robot",
-          "architecture": "FRIENDROBOT_AVR",
+          "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
