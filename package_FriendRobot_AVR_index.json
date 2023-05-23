@@ -17,7 +17,7 @@
           "help": {
             "online": "https://www.friendrobot.co/"
           },
-          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/raw/main/FriendrobotCore-avr.zip",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.0-avr/FriendrobotCore-avr.zip",
           "archiveFileName": "FriendrobotCore-avr.zip",
           "checksum": "SHA-256:6123c89c270ae445e41a346d2d8bad5d969f0a783099ac05d25442baf3ce662e",
           "size": "9168000",
