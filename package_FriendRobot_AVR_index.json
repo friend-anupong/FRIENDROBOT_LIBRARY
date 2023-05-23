@@ -11,15 +11,15 @@
       "platforms": [
         {
           "name": "Friend Robot",
-          "architecture": "avr",
+          "architecture": "FRIENDROBOT_AVR",
           "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "https://www.friendrobot.co/"
           },
-          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/raw/main/FRIENDROBOT.zip",
-          "archiveFileName": "FRIENDROBOT.zip",
-          "checksum": "SHA-256:2e01a529af06e08ed84b96f25c72766219955f111646c007e25ebcdc51db014c",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/raw/main/FRIENDROBOT_AVR.zip",
+          "archiveFileName": "FRIENDROBOT_AVR.zip",
+          "checksum": "SHA-256:42b670332a9fbf8f49126c11e4557bf162aa2008b90b5c34c915bb92884c2c17",
           "size": "6558000",
           "boards": [
             { "name": "Board Model Nano (Friend Robot)" },
