@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Friend Robot",
+          "name": "Friend Robot AVR",
           "architecture": "avr",
           "version": "1.0.0",
           "category": "Contributed",
@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/raw/main/FriendrobotCore-avr.zip",
           "archiveFileName": "FriendrobotCore-avr.zip",
-          "checksum": "SHA-256:f34ba1e7644d7213cbd7e063e70715dab50fb4b4cee3afa92c818ebc108c05d7",
-          "size": "9207808",
+          "checksum": "SHA-256:6123c89c270ae445e41a346d2d8bad5d969f0a783099ac05d25442baf3ce662e",
+          "size": "9168000",
           "boards": [
             { "name": "Board Model Nano (Friend Robot)" },
             { "name": "Board Model Pro (Friend Robot)" }
