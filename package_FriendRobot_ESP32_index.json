@@ -14,10 +14,10 @@
             "architecture": "esp32",
             "version": "1.0.0",
             "category": "ESP32",
-            "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.0/FriendRobotCore-esp32.zip",
+            "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.0-esp/FriendRobotCore-esp32.zip",
             "archiveFileName": "FriendRobotCore-esp32.zip",
-            "checksum": "SHA-256:b51c7cb762559ce67937dc52208fedcea500ba6ff2e5d79283f194e3862a5808",
-            "size": "50540544",
+            "checksum": "SHA-256:56c784b039804717027cd5213d535710e835ef6ac59c45af96abcdbe70480a6f",
+            "size": "51217198",
             "help": {
               "online": "https://www.friendrobot.co/"
             },
