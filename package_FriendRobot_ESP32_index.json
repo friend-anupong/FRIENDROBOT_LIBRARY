@@ -78,6 +78,861 @@
               "version": "3.0.0-gnu12-dc7f933"
             }
           ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.8",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.8/esp32-2.0.8.zip",
+          "archiveFileName": "esp32-2.0.8.zip",
+          "checksum": "SHA-256:2c5daa3ce7456e752fb8d8a35b0b6b2eb8e494032cba57569ba12dd53eb235f2",
+          "size": "278963636",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp-elf-gdb",
+              "version": "11.2_20220823"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gdb",
+              "version": "11.2_20220823"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.11.0-esp32-20221026"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.5.1"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.7",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.7/esp32-2.0.7.zip",
+          "archiveFileName": "esp32-2.0.7.zip",
+          "checksum": "SHA-256:b5a7a54fca36501d1108413310ec50ae2df655c14c3881325903cde2c7ae5f80",
+          "size": "278966011",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "esp-2021r2-patch5-8.4.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.11.0-esp32-20221026"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.5"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.6",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.6/esp32-2.0.6.zip",
+          "archiveFileName": "esp32-2.0.6.zip",
+          "checksum": "SHA-256:ea56d300404cc1b5bc15295f29790246b02025c493e0664a6d271164a602a351",
+          "size": "264579419",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch5"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.2.1"
+            },
+            {
+              "packager": "esp32",
+              "name": "openocd-esp32",
+              "version": "v0.11.0-esp32-20220706"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.5",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.5/esp32-2.0.5.zip",
+          "archiveFileName": "esp32-2.0.5.zip",
+          "checksum": "SHA-256:c7a1040c5f007a799ef9eb249508e3544c3cf5246f67cdfdc1e80f7d0ca7b41d",
+          "size": "260916106",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "4.2.1"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.4",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.4/esp32-2.0.4.zip",
+          "archiveFileName": "esp32-2.0.4.zip",
+          "checksum": "SHA-256:832609d6f4cd0edf4e471f02e30b7f0e1c86fdd1b950990ef40431e656237214",
+          "size": "259715595",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.3.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.3",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.3/esp32-2.0.3.zip",
+          "archiveFileName": "esp32-2.0.3.zip",
+          "checksum": "SHA-256:7a44ab32a2bfe18a84fd1f75aa1921dae92c6b4a74a2eb4d0c7d479b34996f3b",
+          "size": "246542267",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s3-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2-patch3"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.3.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.2",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.2/esp32-2.0.2.zip",
+          "archiveFileName": "esp32-2.0.2.zip",
+          "checksum": "SHA-256:e139f22aab9cbe8109815de0be110e58a8f1d6c90a2e263eb0b0d646b53a5a33",
+          "size": "151846438",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.1.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.1",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.1/esp32-2.0.1.zip",
+          "archiveFileName": "esp32-2.0.1.zip",
+          "checksum": "SHA-256:3a7cd46ba47990dd37fbe02b7f0a910dd5cc7af1d190350b69d320ed36cd6b41",
+          "size": "148976301",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Board"
+            },
+            {
+              "name": "ESP32-S2 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r2"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.1.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "2.0.0",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.0/esp32-2.0.0.zip",
+          "archiveFileName": "esp32-2.0.0.zip",
+          "checksum": "SHA-256:10e1c42dbf11d2359259a80008f13f37d2f9bb8f49a25d34d387cf4531052cbc",
+          "size": "139313137",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            },
+            {
+              "name": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "riscv32-esp-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r1"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r1"
+            },
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32s2-elf-gcc",
+              "version": "gcc8_4_0-esp-2021r1"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.1.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            },
+            {
+              "packager": "esp32",
+              "name": "mklittlefs",
+              "version": "3.0.0-gnu12-dc7f933"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "1.0.6",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.6/esp32-1.0.6.zip",
+          "archiveFileName": "esp32-1.0.6.zip",
+          "checksum": "SHA-256:982da9aaa181b6cb9c692dd4c9622b022ecc0d1e3aa0c5b70428ccc3c1b4556b",
+          "size": "51126662",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            },
+            {
+              "name": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.0.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            }
+          ]
+        },
+        {
+          "name": "esp32",
+          "architecture": "esp32",
+          "version": "1.0.5",
+          "category": "ESP32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.5/esp32-1.0.5.zip",
+          "archiveFileName": "esp32-1.0.5.zip",
+          "checksum": "SHA-256:dc5c6c72a127b3171c654f3c3476911d3c2b0ab21affdb7b0f0756c105ca71a7",
+          "size": "49552769",
+          "help": {
+            "online": ""
+          },
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            },
+            {
+              "name": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.0.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            }
+          ]
+        },
+        {
+          "category": "ESP32",
+          "name": "esp32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.4/esp32-1.0.4.zip",
+          "checksum": "SHA-256:d9108bf873933c4e48a3ca401fb51e41b2cc3f98d7c9b9be9881e7ca34bf0efe",
+          "help": {
+            "online": ""
+          },
+          "version": "1.0.4",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-1.0.4.zip",
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            },
+            {
+              "name": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "esp32",
+              "version": "2.6.1",
+              "name": "esptool_py"
+            },
+            {
+              "packager": "esp32",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ],
+          "size": "36853332"
+        },
+        {
+          "category": "ESP32",
+          "name": "esp32",
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.3/esp32-1.0.3.zip",
+          "checksum": "SHA-256:19a30ece8a3ab26ab420c3d5531a9a1c51cb04e421a4f1d86dc072c209060436",
+          "help": {
+            "online": ""
+          },
+          "version": "1.0.3",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-1.0.3.zip",
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            },
+            {
+              "name": "WEMOS D1 MINI ESP32"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "esp32",
+              "version": "2.6.1",
+              "name": "esptool_py"
+            },
+            {
+              "packager": "esp32",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ],
+          "size": "36811826"
+        },
+        {
+          "category": "ESP32",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.2/esp32-1.0.2.zip",
+          "checksum": "SHA-256:c3a5a5050705d41ab205d25a7399e921057b754ef8f883419f58c0c7f08df11c",
+          "version": "1.0.2",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-1.0.2.zip",
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            }
+          ],
+          "size": "31174160",
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "esp32",
+              "version": "2.6.1",
+              "name": "esptool_py"
+            },
+            {
+              "packager": "esp32",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ],
+          "name": "esp32"
+        },
+        {
+          "category": "ESP32",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.1/esp32-1.0.1.zip",
+          "checksum": "SHA-256:1a7fa2f9bb0b6b5a20dfea227497f4851dc8b886caf7ecb998f745589c97ed34",
+          "name": "esp32",
+          "version": "1.0.1",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-1.0.1.zip",
+          "size": "31273425",
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "esp32",
+              "version": "2.6.0",
+              "name": "esptool_py"
+            },
+            {
+              "packager": "esp32",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ],
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            }
+          ]
+        },
+        {
+          "category": "ESP32",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.0/esp32-1.0.0.zip",
+          "checksum": "SHA-256:94d586174f103e2014be590ab307c5cdda6fa2ec70204c7f121882ace5e05c80",
+          "name": "esp32",
+          "version": "1.0.0",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-1.0.0.zip",
+          "size": "26381887",
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "esp32",
+              "version": "2.3.1",
+              "name": "esptool"
+            },
+            {
+              "packager": "esp32",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ],
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            }
+          ]
         }
       ],
       "tools": [
