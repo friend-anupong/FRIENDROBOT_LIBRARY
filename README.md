@@ -16,7 +16,7 @@ Board Model Pro
 
 Board Model Hifi
 <br>
-<img class="img-fluid" src=".img/Board Model Hifi.png" alt="modelHifi" width="300px" style="margin-top: 10px;">
+<img class="img-fluid" src="./img/Board Model Hifi.png" alt="modelHifi" width="300px" style="margin-top: 10px;">
 <br>
 
 # สอบถามเพิ่มเติม
