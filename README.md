@@ -6,12 +6,12 @@ http://www.friendrobotshop.com/c/9
 
 - Board Model Nano
 <br>
-<img class="img-fluid" src="./img/Model%20Nano.jpg" alt="modelnano" width="300px">
+<img class="img-fluid" src="./img/Model%20Nano.jpg" alt="modelnano" width="300px" style="margin-top: -2px;">
 <br>
 
 - Board Model Pro
 <br>
-<img class="img-fluid" src="img/model_pro.png" alt="modelpro" width="360px">
+<img class="img-fluid" src="img/model_pro.png" alt="modelpro" width="360px" style="margin-top: -2px;">
 <br>
 
 
