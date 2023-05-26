@@ -2,7 +2,7 @@
 Friend Robot Avr, Hardware, Libralies Boards.
 
 # รองรับสำหรับสินค้า Friend Robot 
-http://www.friendrobotshop.com/c/9
+สั่งซื้อบอร์ด : http://www.friendrobotshop.com/c/9
 
 - Board Model Nano
 <br>
@@ -17,8 +17,12 @@ http://www.friendrobotshop.com/c/9
 
 - Board Model Hifi
 
+# สอบถามเพิ่มเติม
+- Facebook : https://www.facebook.com/friendrobot/
+- Line : https://lin.ee/3bP2Ohi1V
+- Phone : 096-2341492 (คุณเฟรน)
 
-By Friend Robot
+Dev By Friend Robot
 - Boss.Dev
 - Friend_Anupong
 
