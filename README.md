@@ -5,7 +5,7 @@ Friend Robot Avr, Hardware, Libralies Boards.
 http://www.friendrobotshop.com/c/9
 
 - Board Model Nano
-![รูปบอร์ด Modle Nano](./img/Model%20Nano.jpg)
+![รูปบอร์ด Modle Nano](./img/Model%20Nano.jpg?width=50px)
 - Board Model Pro
 
 - Board Model Hifi
