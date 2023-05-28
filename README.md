@@ -11,17 +11,14 @@ Friend Robot Avr, Hardware, Libralies Boards.
 # รองรับสำหรับสินค้า Friend Robot 
 
 - Board Model Nano
-<br>
 <img class="img-fluid" src="./img/Model%20Nano.jpg" alt="modelnano" width="300px" style="margin-top: 10px;">
 <br>
 
 - Board Model Pro
-<br>
 <img class="img-fluid" src="img/model_pro.png" alt="modelpro" width="360px" style="margin-top: 10px;">
 <br>
 
 - Board Model Hifi
-<br>
 <img class="img-fluid" src="./img/Board Model Hifi.png" alt="modelHifi" width="300px" style="margin-top: 10px;">
 <br>
 
