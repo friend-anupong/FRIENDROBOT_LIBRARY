@@ -2,7 +2,7 @@
 Friend Robot Avr, Hardware, Libralies Boards.
 
 # วิธีเพิ่มบอร์ดและไลบารี่สำหรับ Arduino IDE
-1. ติดตั้งโปรแกรม Arduino IDE ให้เรียบร้อย จาก (https://www.arduino.cc/en/software)
+1. ติดตั้งโปรแกรม Arduino IDE ให้เรียบร้อย จาก https://www.arduino.cc/en/software
 2. ทำตามบทความวิธีเพิ่มบอร์ดและไลบารี่ : http://www.friendrobotshop.com/b/5
 
 # สั่งซื้อบอร์ดได้ที่
