@@ -5,8 +5,10 @@ Friend Robot Avr, Hardware, Libralies Boards.
 1. ติดตั้งโปรแกรม Arduino IDE ให้เรียบร้อย จาก (https://www.arduino.cc/en/software)
 2. ทำตามบทความวิธีเพิ่มบอร์ดและไลบารี่ : http://www.friendrobotshop.com/b/5
 
-# รองรับสำหรับสินค้า Friend Robot 
+# สั่งซื้อบอร์ดได้ที่
 - สั่งซื้อบอร์ด : http://www.friendrobotshop.com/c/9
+
+# รองรับสำหรับสินค้า Friend Robot 
 
 Board Model Nano
 <br>
