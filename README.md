@@ -1,6 +1,9 @@
 # FRIENDROBOT_LIBRARY
 Friend Robot Avr, Hardware, Libralies Boards.
 
+# วิธีเพิ่มไลบารี่สำหรับบอร์ด Friend Robot สำหรับ Arduino IDE
+บทความวิธีเพิ่มไลบารี่ : http://www.friendrobotshop.com/b/5
+
 # รองรับสำหรับสินค้า Friend Robot 
 - สั่งซื้อบอร์ด : http://www.friendrobotshop.com/c/9
 
