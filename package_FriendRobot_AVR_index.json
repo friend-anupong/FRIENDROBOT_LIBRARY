@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.1-avr/FriendrobotCore-avr-1.0.1.zip",
           "archiveFileName": "FriendrobotCore-avr.zip",
-          "checksum": "SHA-256:e65d30030906f97f61b5032ae852b6cae6369b8b113eb1ce72e9db6f19d97b93",
+          "checksum": "SHA-256:0a5c1c217cfb5e85b34db346ec4295d2cfd548bad1111c89753d15895dbb9ff5",
           "size": "9601249",
           "boards": [
             { "name": "Board Model Nano (Friend Robot)" },
