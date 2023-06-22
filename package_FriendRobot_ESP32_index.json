@@ -12,6 +12,41 @@
         {
           "name": "Friend Robot ESP",
           "architecture": "esp32",
+          "version": "1.0.2",
+          "category": "ESP32",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.2-esp32/FriendRobotCore-esp32-1.0.2.zip",
+          "archiveFileName": "FriendRobotCore-esp32-1.0.2.zip",
+          "checksum": "SHA-256:4d36a091d404d15e26a5095ea7b9c5139401c6ebee8dd7cb3d5ce3a7334371d0",
+          "size": "58620238",
+          "help": {
+            "online": "https://www.friendrobot.co/"
+          },
+          "boards": [
+            {
+              "name": "Board Model Hifi (Friend Robot)"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "name": "xtensa-esp32-elf-gcc",
+              "version": "1.22.0-97-gc752ad5-5.2.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "esptool_py",
+              "version": "3.0.0"
+            },
+            {
+              "packager": "esp32",
+              "name": "mkspiffs",
+              "version": "0.2.3"
+            }
+          ]
+        },
+        {
+          "name": "Friend Robot ESP",
+          "architecture": "esp32",
           "version": "1.0.1",
           "category": "ESP32",
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.1-esp32/FriendRobotCore-esp32-1.0.1.zip",
