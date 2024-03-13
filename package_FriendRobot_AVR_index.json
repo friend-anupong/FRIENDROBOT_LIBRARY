@@ -47,7 +47,6 @@
           "discoveryDependencies": [],
           "monitorDependencies": []
         },
-        
         {
           "name": "Friend Robot AVR",
           "architecture": "avr",
