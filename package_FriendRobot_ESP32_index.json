@@ -17,7 +17,7 @@
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.4-esp32/FriendRobotCore-esp32-1.0.4.zip",
           "archiveFileName": "FriendRobotCore-esp32-1.0.4",
           "checksum": "SHA-256:626c0ff053b3658ac3c66669a353f1c9f4ccf771c489323e8cc848cad85d7d88",
-          "size": "58620975",
+          "size": "58582941",
           "help": {
             "online": "https://www.friendrobot.co/"
           },
