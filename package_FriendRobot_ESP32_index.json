@@ -12,12 +12,12 @@
          {
           "name": "Friend Robot ESP",
           "architecture": "esp32",
-          "version": "1.0.4",
+          "version": "1.0.3",
           "category": "ESP32",
-          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.4-esp32/FriendRobotCore-esp32-1.0.4.zip",
-          "archiveFileName": "FriendRobotCore-esp32-1.0.4",
-          "checksum": "SHA-256:626c0ff053b3658ac3c66669a353f1c9f4ccf771c489323e8cc848cad85d7d88",
-          "size": "58582941",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.3-esp32/FriendRobotCore-esp32-1.0.3.zip",
+          "archiveFileName": "FriendRobotCore-esp32-1.0.3",
+          "checksum": "SHA-256:7e5dd76d52f3661544c847049f48bc2da701caa58203046b1671331f4a78b855",
+          "size": "58621045",
           "help": {
             "online": "https://www.friendrobot.co/"
           },
