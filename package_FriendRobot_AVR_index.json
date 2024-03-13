@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.3-avr/FriendRobot-AVR-1.1.3.zip",
           "archiveFileName": "FriendRobot-AVR-1.1.3",
-          "checksum": "3043d9a7c66fb1c0c38227856540c1c02f2d48743fb94173b2d9ae5a070f95b5",
+          "checksum": "SHA-256:3043d9a7c66fb1c0c38227856540c1c02f2d48743fb94173b2d9ae5a070f95b5",
           "size": "10298486",
           "boards": [
             { "name": "Board Model Nano (Friend Robot)" },
