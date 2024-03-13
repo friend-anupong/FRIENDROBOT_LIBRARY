@@ -44,7 +44,6 @@
             }
           ]
         },
-        
         {
           "name": "Friend Robot ESP",
           "architecture": "esp32",
