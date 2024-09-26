@@ -17,8 +17,8 @@
           "help": {
             "online": "https://www.friendrobot.co/"
           },
-          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.4-avr/FriendRobotAVR-1.1.4.zip",
-          "archiveFileName": "FriendRobotAVR-1.1.4",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.4-avr/FriendRobotAVR-114.zip",
+          "archiveFileName": "FriendRobotAVR-114",
           "checksum": "c1372ee89cdb69efaf082bbc44b3ba6eb8a33199d6cf36201b817328eac4fa72",
           "size": "12103571",
           "boards": [
