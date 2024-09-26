@@ -18,7 +18,7 @@
             "online": "https://www.friendrobot.co/"
           },
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.4-avr/AVR1.1.4.zip",
-          "archiveFileName": "AVR1.1.4",
+          "archiveFileName": "AVR1.1.4.zip",
           "checksum": "SHA-256:8b87910ef2828e46021d84615efa2c4c83e70c6f4b925f85e1b7ff5053803f45",
           "size": "12149377",
           "boards": [
