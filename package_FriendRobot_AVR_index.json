@@ -17,9 +17,9 @@
           "help": {
             "online": "https://www.friendrobot.co/"
           },
-          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.4-avr/AVR114.zip",
-          "archiveFileName": "AVR114",
-          "checksum": "8db338f45d85720ab71fae0d0219bd4f35543d8c1d26d7578f35f42054769c25",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.4-avr/FriendRobotAVR_1.1.4.zip",
+          "archiveFileName": "FriendRobotAVR_1.1.4",
+          "checksum": "ab2f0329d7374bc3953d0a55e64623a429b0d3160248cb4437739d32223d47a9",
           "size": "12103571",
           "boards": [
             { "name": "Board Model Nano (Friend Robot)" },
