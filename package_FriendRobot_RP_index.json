@@ -14,8 +14,8 @@
            "category": "Raspberry Pi Pico",
            "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.1-rp/FriendRobot-rp-1.0.1.zip",
            "archiveFileName": "FriendRobot-rp-1.0.1.zip",
-           "checksum": "SHA-256:65c27b8835fe549254c1ac1fa234a43c82f5e29055e5b14c4299cc7783f7b126",
-           "size": "118224676",
+           "checksum": "SHA-256:768fab56111b846349460922d8ee47070055c3474b172d02ea6b92530fbcda32",
+           "size": "119702069",
            "boards": [
                    {
                       "name": "Board RacerX (Friend Robot)"
