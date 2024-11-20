@@ -9,7 +9,7 @@
          {
            "name": "Friend Robot RacerX",
            "architecture": "rp2040",
-           "version": "4.2.1",
+           "version": "1.0.1",
            "deprecated": false,
            "category": "Raspberry Pi Pico",
            "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.1-rp/FriendRobot-rp-1.0.1.zip",
