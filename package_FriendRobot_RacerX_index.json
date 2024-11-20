@@ -4,7 +4,6 @@
        "name": "FRIENDROBOT RACERX",
        "maintainer": "Friend Robot",
        "websiteUrl": "https://www.friendrobot.co/",
-       "Url": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
        "email": "friend428212@gmail.com",
        "platforms": [
          {
@@ -13,7 +12,7 @@
            "version": "4.2.1",
            "deprecated": false,
            "category": "Raspberry Pi Pico",
-           "url": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.1-rp/FriendRobot-rp-1.0.1.zip",
            "archiveFileName": "FriendRobot-rp-1.0.1.zip",
            "checksum": "SHA-256:0b09d22f9d04a9835f7dd1868eaa37cbd286544e56414f0c691fcedfb904b90f",
            "size": "236,025,154",
