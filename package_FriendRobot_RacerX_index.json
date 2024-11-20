@@ -14,9 +14,9 @@
            "deprecated": false,
            "category": "Raspberry Pi Pico",
            "url": "xxxxxxxxxxxxxxxxxxxxxxxxx",
-           "archiveFileName": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-           "checksum": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
-           "size": "xxxxxxxxxxxxxxxxxxxxxx",
+           "archiveFileName": "FriendRobot-rp-1.0.1.zip",
+           "checksum": "SHA-256:0b09d22f9d04a9835f7dd1868eaa37cbd286544e56414f0c691fcedfb904b90f",
+           "size": "236,025,154",
            "boards": [
                    {
                       "name": "Board RacerX (Friend Robot)"
