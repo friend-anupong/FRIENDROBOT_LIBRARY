@@ -7,7 +7,7 @@
        "email": "friend428212@gmail.com",
        "platforms": [
          {
-           "name": "Friend Robot RacerX",
+           "name": "Friend Robot RP",
            "architecture": "rp2040",
            "version": "1.0.1",
            "deprecated": false,
