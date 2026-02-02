@@ -16,8 +16,8 @@
                     "category": "ESP32",
                     "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.0.5-esp32/FriendrobotCore-esp32-1.0.5.zip",
                     "archiveFileName": "FriendrobotCore-esp32-1.0.5",
-                    "checksum": "SHA-256:EAC5BE67515AB7C0860793D22146C2F913469846816AE968123957D64F5F4632",
-                    "size": "58205799",
+                    "checksum": "SHA-256:3E067570E4E0532E58DA959382D90D1C4632D9B421688367230A29C8509A7E77",
+                    "size":58205830",
                     "help": {
                         "online": "https://www.friendrobot.co/"
                     },
@@ -540,4 +540,5 @@
         }
     ]
 }
+
 
