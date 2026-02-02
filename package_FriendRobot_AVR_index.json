@@ -12,6 +12,44 @@
         {
           "name": "Friend Robot AVR",
           "architecture": "avr",
+          "version": "1.1.6",
+          "category": "Contributed",
+          "help": {
+            "online": "https://www.friendrobot.co/"
+          },
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/1.1.6-avr/1.1.6.zip",
+          "archiveFileName": "1.1.6.zip",
+          "checksum": "sha256:43110630e0f35208d7c2bf4bdf42c6fcf1090d2b79d97f10fa1228d51230e1f6",
+          "size": "11409211",
+          "boards": [
+            { "name": "Board Model Nano (Friend Robot)" },
+            { "name": "Board Model Nano+ (Friend Robot)" },
+            { "name": "Board Model Pro (Friend Robot)" },
+            { "name": "Board Model Pro+ (Friend Robot)" }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "7.3.0-atmel3.6.1-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.3.0-arduino17"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.3.0"
+            }
+          ],
+          "discoveryDependencies": [],
+          "monitorDependencies": []
+        },
+        {
+          "name": "Friend Robot AVR",
+          "architecture": "avr",
           "version": "1.1.5",
           "category": "Contributed",
           "help": {
@@ -4481,3 +4519,4 @@
   ],
   "IsTrusted": true
 }
+
