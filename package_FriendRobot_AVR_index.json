@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "FRIENDROBOT AVR",
+      "name": "FRIENDROBOT_AVR",
       "maintainer": "Friend Robot",
       "websiteURL": "https://www.friendrobot.co/",
       "email": "friend428212@gmail.com",
@@ -4566,6 +4566,7 @@
   ],
   "IsTrusted": true
 }
+
 
 
 
