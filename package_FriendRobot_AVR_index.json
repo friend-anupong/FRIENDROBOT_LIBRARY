@@ -17,8 +17,8 @@
           "category": "Arduino",
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-avr/2.0.0.zip",
           "archiveFileName": "2.0.0.zip",
-          "checksum": "SHA-256:B6FC99F2B7B8871DDB0AF94266AAC95AAECE4AAF1983002D037A61FB3278F532",
-          "size": "66187431",
+          "checksum": "SHA-256:9FBAAC1550B9D9A291F1757CDD9B40126E34B8145EED18D2CD56C1C09B829A00",
+          "size": "10052387",
           "boards": [
             { "name": "Model Nano Plus" },
             { "name": "Model Pro Plus" },
@@ -4557,6 +4557,7 @@
   ],
   "IsTrusted": true
 }
+
 
 
 
