@@ -22,9 +22,9 @@
           "checksum": "SHA-256:B6FC99F2B7B8871DDB0AF94266AAC95AAECE4AAF1983002D037A61FB3278F532",
           "size": "66187431",
           "boards": [
-            { "name": "Board Model Nano Plus (Friend Robot)" },
-            { "name": "Board Model Pro Plus (Friend Robot)" },
-            { "name": "Board Model Nexa Pro (Friend Robot)" }
+            { "name": "Model Nano Plus" },
+            { "name": "Model Pro Plus" },
+            { "name": "Nexa Pro" }
           ],
           "toolsDependencies": [
             {
@@ -4566,6 +4566,7 @@
   ],
   "IsTrusted": true
 }
+
 
 
 
