@@ -17,8 +17,8 @@
                     "category": "ESP32",
                     "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-esp32/2.0.0.zip",
                     "archiveFileName": "2.0.0.zip",
-                    "checksum": "SHA-256:F8AC16684996AE6BEC7B9FA8B0B3865970F0BEA5CF7AF3FB1199AA5D187D12CF",
-                    "size": "1672224351",
+                    "checksum": "SHA-256:0F12679CEC6F7031C8F741F56ECDB446091162A33BD590E56E85BA69C23F5BF4",
+                    "size": "35959302",
                     "boards": [
                         {
                         "name": "Board Model Hifi (Friend Robot)"
@@ -658,6 +658,7 @@
         }
     ]
 }
+
 
 
 
