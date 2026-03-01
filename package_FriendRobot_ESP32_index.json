@@ -1,7 +1,7 @@
 {
     "packages": [
         {
-            "name": "FRIENDROBOT_ESP32",
+            "name": "FRIENDROBOT ESP32",
             "maintainer": "Friend Robot",
             "websiteURL": "https://www.friendrobot.co/",
             "email": "friend428212@gmail.com",
@@ -9,124 +9,6 @@
                 "online": "https://www.friendrobot.co/"
             },
             "platforms": [
-                {
-                    "name": "FRIENDROBOT_ESP32",
-                    "architecture": "esp32",
-                    "version": "2.0.0",
-                    "deprecated": false,
-                    "category": "ESP32",
-                    "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-esp32/FriendrobotCore-esp32-2.0.0.zip",
-                    "archiveFileName": "FriendrobotCore-esp32-2.0.0",
-                    "checksum": "SHA-256:0F12679CEC6F7031C8F741F56ECDB446091162A33BD590E56E85BA69C23F5BF4",
-                    "size": "35959302",
-                    "boards": [
-                        {
-                        "name": "Board Model Hifi (Friend Robot)"
-                        }
-                    ],
-                    "help": {
-                        "online": "https://www.friendrobot.co/"
-                    },
-                    "toolsDependencies": [
-                        {
-                            "packager": "arduino",
-                            "name": "dfu-util",
-                            "version": "0.11.0-arduino5"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp-rv32",
-                            "version": "2511"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp-x32",
-                            "version": "2511"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32c3-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32c5-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32c6-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32h2-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32p4-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32p4_es-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32s2-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esp32s3-libs",
-                            "version": "3.3.7"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "esptool_py",
-                            "version": "5.1.0"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "mklittlefs",
-                            "version": "4.0.2-db0513a"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "mkspiffs",
-                            "version": "0.2.3"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "openocd-esp32",
-                            "version": "v0.12.0-esp32-20251215"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "riscv32-esp-elf-gdb",
-                            "version": "16.3_20250913"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "xtensa-esp32-elf-gcc",
-                            "version": "1.22.0-97-gc752ad5-5.2.0"
-                        },
-                        {
-                            "packager": "esp32",
-                            "name": "xtensa-esp-elf-gdb",
-                            "version": "16.3_20250913"
-                        }
-                    ],
-                    "discoveryDependencies": [],
-                    "monitorDependencies": []
-                },
                 {
                     "name": "Friend Robot ESP",
                     "architecture": "esp32",
@@ -658,6 +540,7 @@
         }
     ]
 }
+
 
 
 
