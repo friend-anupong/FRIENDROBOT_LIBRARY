@@ -15,8 +15,8 @@
                     "version": "2.0.0",
                     "deprecated": false,
                     "category": "ESP32",
-                    "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-esp32/2.0.0.zip",
-                    "archiveFileName": "2.0.0.zip",
+                    "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-esp32/FriendrobotCore-esp32-2.0.0.zip",
+                    "archiveFileName": "FriendrobotCore-esp32-2.0.0",
                     "checksum": "SHA-256:0F12679CEC6F7031C8F741F56ECDB446091162A33BD590E56E85BA69C23F5BF4",
                     "size": "35959302",
                     "boards": [
@@ -658,6 +658,7 @@
         }
     ]
 }
+
 
 
 
