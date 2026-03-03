@@ -14,6 +14,7 @@ Board Nexa
 - Model Pro (Support Version < 1.1.6)
 - Model Pro Plus
 - Model Hifi
+
 Board Neax
 - Neax Pro
 - Neax Link
