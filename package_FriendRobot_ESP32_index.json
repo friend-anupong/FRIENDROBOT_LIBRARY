@@ -10,7 +10,7 @@
             },
             "platforms": [
                 {
-                    "name": "esp32",
+                    "name": "FRIENDROBOT_ESP32",
                     "architecture": "esp32",
                     "version": "2.0.0",
                     "deprecated": false,
@@ -656,6 +656,7 @@
         }
     ]
 }
+
 
 
 
