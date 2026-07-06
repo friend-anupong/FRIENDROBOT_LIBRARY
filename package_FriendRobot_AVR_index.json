@@ -18,7 +18,7 @@
           "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.2-avr/2.0.2.zip",
           "archiveFileName": "2.0.2.zip",
           "checksum": "SHA-256:9C4F1A84BB408473D30A13030E4FB654F36154E7653EDFD539805006D3205C23",
-          "size": "10126719",
+          "size": "10129383",
           "boards": [
             { "name": "Model Nano Plus" },
             { "name": "Model Pro Plus" },
