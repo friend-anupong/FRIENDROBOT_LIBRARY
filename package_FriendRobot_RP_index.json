@@ -10,6 +10,62 @@
         {
           "name": "FRIENDROBOT_RP",
           "architecture": "rp2040",
+          "version": "2.0.1",
+          "deprecated": false,
+          "category": "Raspberry Pi Pico",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-rp/FriendRobot-rp-2.0.1.zip",
+          "archiveFileName": "FriendRobot-rp-2.0.1.zip",
+          "checksum": "SHA-256:DA657D7363EBFF605A8B5854240ED9E0EEB2A96C6B045BE6FAA3E067F0C19D53",
+          "size": "122590678",
+          "boards": [
+            {
+              "name": "RacerX"
+            }
+          ],
+          "help": {},
+          "toolsDependencies": [
+            {
+              "packager": "rp2040",
+              "name": "pqt-gcc",
+              "version": "5.0.0-9576866"
+            },
+            {
+              "packager": "rp2040",
+              "name": "pqt-gcc-riscv",
+              "version": "5.0.0-9576866"
+            },
+            {
+              "packager": "rp2040",
+              "name": "pqt-mklittlefs",
+              "version": "5.0.0-9576866"
+            },
+            {
+              "packager": "rp2040",
+              "name": "pqt-pioasm",
+              "version": "5.0.0-9576866"
+            },
+            {
+              "packager": "rp2040",
+              "name": "pqt-python3",
+              "version": "1.0.1-base-3a57aed-1"
+            },
+            {
+              "packager": "rp2040",
+              "name": "pqt-openocd",
+              "version": "5.0.0-9576866"
+            },
+            {
+              "packager": "rp2040",
+              "name": "pqt-picotool",
+              "version": "5.0.0-9576866"
+            }
+          ],
+          "discoveryDependencies": [],
+          "monitorDependencies": []
+        },
+        {
+          "name": "FRIENDROBOT_RP",
+          "architecture": "rp2040",
           "version": "2.0.0",
           "deprecated": false,
           "category": "Raspberry Pi Pico",
