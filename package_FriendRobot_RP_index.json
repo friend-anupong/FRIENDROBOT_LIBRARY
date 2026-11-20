@@ -13,7 +13,7 @@
           "version": "2.0.1",
           "deprecated": false,
           "category": "Raspberry Pi Pico",
-          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.0-rp/FriendRobot-rp-2.0.1.zip",
+          "url": "https://github.com/friend-anupong/FRIENDROBOT_LIBRARY/releases/download/2.0.1-rp/FriendRobot-rp-2.0.1.zip",
           "archiveFileName": "FriendRobot-rp-2.0.1.zip",
           "checksum": "SHA-256:DA657D7363EBFF605A8B5854240ED9E0EEB2A96C6B045BE6FAA3E067F0C19D53",
           "size": "122590678",
